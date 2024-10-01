@@ -86,13 +86,13 @@
   }
 
   &.is-active:not(.pl-c-nav__link--title) {
-    box-shadow: inset 4px 0 0 #6c79d9;
+    box-shadow: inset 4px 0 0 #e8397e;
 
     // move the "active" border style to the bottom on ONLY the top level links (ex. "All")
     @media all and (min-width: $pl-bp-med) {
       &.pl-c-nav__link--level-0 {
         .pl-c-body--theme-horizontal & {
-          box-shadow: inset 0 -4px 0 #6c79d9;
+          box-shadow: inset 0 -4px 0 #e8397e;
         }
       }
     }
