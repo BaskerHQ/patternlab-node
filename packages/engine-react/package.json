@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/engine-react",
   "description": "The React engine for Pattern Lab / Node",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "private": true,
   "main": "lib/engine_react.js",
   "dependencies": {

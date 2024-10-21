@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **create:** deprecating @pattern-lab/create in favor of create-pattern-lab ([416ba0e](https://github.com/BaskerHQ/patternlab-node/commit/416ba0e50fe7e9a75d2b3f4a6d41b7bcc0c2da5b))
+
+
+### Features
+
+* **create:** add create package to proxy npx @pattern-lab/cli init via npm create [@pattern-lab](https://github.com/pattern-lab) ([a759df9](https://github.com/BaskerHQ/patternlab-node/commit/a759df90c09bcd25666fa0f3ea4d09f6ec392598))
+* **create:** make typo fallback for missing hyphen on "npm create pattern-lab" ([26fd73f](https://github.com/BaskerHQ/patternlab-node/commit/26fd73f117c166108ec63ec715cafdb7135e40fe))
+* **create:** release create-pattern-lab so "npm create pattern-lab" is possible ([cc27f83](https://github.com/BaskerHQ/patternlab-node/commit/cc27f8366d55fa60cb69b60a19d58e5f8d0d5518))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/BaskerHQ/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package create-pattern-lab

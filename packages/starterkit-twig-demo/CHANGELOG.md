@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **starterkit-twig-demo:** add macro Twig namespace ([8694ff3](https://github.com/pattern-lab/patternlab-node/commit/8694ff38ebb696f3b70578ac8148cfa6be4e2e69))
+* **starterkit-twig-demo:** mv source dist so it can be installed ([bd0d64e](https://github.com/pattern-lab/patternlab-node/commit/bd0d64e27bdf317306f35f932b5cc9f6c64c6634))
+* **starterkit-twig-demo:** pages not rendering pattern-specific data from json ([#1490](https://github.com/pattern-lab/patternlab-node/issues/1490)) ([1c878df](https://github.com/pattern-lab/patternlab-node/commit/1c878dfa35d549f23e199b3e235ff79cb471ac86)), closes [#1486](https://github.com/pattern-lab/patternlab-node/issues/1486)
+* the namespace notation should not be mixed with PatternLab shorthand pattern naming & name is not defined in the textarea macro ([8250fe8](https://github.com/pattern-lab/patternlab-node/commit/8250fe88231d03735424d597eae40496da2cb48c))
+* **twig engine:** startup and running problems ([#1478](https://github.com/pattern-lab/patternlab-node/issues/1478)) ([e5a1904](https://github.com/pattern-lab/patternlab-node/commit/e5a19049f083315939406677b1c0480f4b420569))
+* twig logo is rendered as "NaN" ([#1434](https://github.com/pattern-lab/patternlab-node/issues/1434)) ([ab6b133](https://github.com/pattern-lab/patternlab-node/commit/ab6b133019d9dfa3816e8fc9a9caa7b547e19097)), closes [#1407](https://github.com/pattern-lab/patternlab-node/issues/1407)
+* **twig:** starter-kit-twig urls are incorrect on npm ([#1297](https://github.com/pattern-lab/patternlab-node/issues/1297)) ([4256d6b](https://github.com/pattern-lab/patternlab-node/commit/4256d6b13f9c2cfadf7620b0cb744cf71c3257f5))
+
+
+### Features
+
+* activate prettier for scss ([#1468](https://github.com/pattern-lab/patternlab-node/issues/1468)) ([fac6ad4](https://github.com/pattern-lab/patternlab-node/commit/fac6ad4be48c95eccfe890a280cad441ee84f677))
+* setup edition-twig in cli init ([480ed5d](https://github.com/pattern-lab/patternlab-node/commit/480ed5d14042a31d566d8d1107f7ca820ea18293))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/pattern-lab/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package @pattern-lab/starterkit-twig-demo

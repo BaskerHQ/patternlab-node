@@ -3,6 +3,52 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **config:** Add npm registry to lerna config ([1473cd5](https://github.com/pattern-lab/patternlab-node/commit/1473cd554c24b4c1baa4ee5ac59958f3499b9902))
+* corrected some github urls ([#1388](https://github.com/pattern-lab/patternlab-node/issues/1388)) ([7f37e9d](https://github.com/pattern-lab/patternlab-node/commit/7f37e9d56b553dc4be53590766c0fc6251458829))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([420e829](https://github.com/pattern-lab/patternlab-node/commit/420e8293c033557ede073bc13e68955a450a3c8e))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([b4eb12e](https://github.com/pattern-lab/patternlab-node/commit/b4eb12e68ceb402964a7e303610e5b0c008876ba))
+* **edition:** ignore dependencyGraph.json ([19b4268](https://github.com/pattern-lab/patternlab-node/commit/19b4268087e3bbd9fccf2d43d8376a4fc2bd9e6c))
+* manually bump package.json versions of packages published in September but with mismatched package.json versions ([98dfadf](https://github.com/pattern-lab/patternlab-node/commit/98dfadf083eacc6741a8a8d4a79ef0cf869360d2))
+* **package:** remove files obsoleted by monorepo ([9abb8ac](https://github.com/pattern-lab/patternlab-node/commit/9abb8ac472ca4921c81e2d8444435b4ffcc37d76))
+* **packages:** Allow scoped publishing ([58beeb6](https://github.com/pattern-lab/patternlab-node/commit/58beeb6ee8a111d0caa4e2da6af138d634dc5355))
+* **package:** update LICENSE ([337aa32](https://github.com/pattern-lab/patternlab-node/commit/337aa32a22eab42641c087b0909d6c3bf5525399))
+* **README:** Fix typos ([b3d1846](https://github.com/pattern-lab/patternlab-node/commit/b3d18463f4dc748d9c213f17171acb674af02d59))
+
+
+### Features
+
+* **config:** add new default pattern export options ([a7487a0](https://github.com/pattern-lab/patternlab-node/commit/a7487a0681cb11e6f3c5c8eaefd62e5648ad5ea3))
+* **edition-node:** switch to engine-handlebars ([b481e22](https://github.com/pattern-lab/patternlab-node/commit/b481e22dc1f41ddd4da709621640a15190fba257))
+* **package:** add @pattern-lab/cli as a dependency ([760d0e0](https://github.com/pattern-lab/patternlab-node/commit/760d0e0175c9fc381089c984d4ce16bb8a49c064))
+* **package:** add npmrc file ([55f5bc2](https://github.com/pattern-lab/patternlab-node/commit/55f5bc26d635805648caa2d35d1bf306fe4740d5))
+* **package:** pin all dependencies ([415698e](https://github.com/pattern-lab/patternlab-node/commit/415698eb9a70d477ffb7b2906e679ac8f2051c60))
+* **package:** remove package-lock.json files ([5ab3995](https://github.com/pattern-lab/patternlab-node/commit/5ab399599a1dbea8239fbd09a34d5f39ad762e21))
+* **packages:** Update all package.json repo and bug links ([5eb2c11](https://github.com/pattern-lab/patternlab-node/commit/5eb2c1148d428170236907cbbc42ba05d046e408))
+* **README:** Update for brevity and consistency ([65a2969](https://github.com/pattern-lab/patternlab-node/commit/65a29692c7f12a54689f6ed3a9ecc7d7d2475ace))
+* **README:** Update for brevity and consistency ([a7f6866](https://github.com/pattern-lab/patternlab-node/commit/a7f68661be091868e4e17a0cbbac42dfd8a15970))
+* **scripts:** namespace scripts ([3ecbb3e](https://github.com/pattern-lab/patternlab-node/commit/3ecbb3e9467552c13f9c9d77329b2554920a8cff))
+* **scripts:** refactor to use cli commands ([e8d5c21](https://github.com/pattern-lab/patternlab-node/commit/e8d5c211bd49a7e96bd43cf802d8bcefec4c6b93))
+* **uikits:** uikits config ([027e56c](https://github.com/pattern-lab/patternlab-node/commit/027e56c55a06097520eb8367c0129f24d1d1d412))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/pattern-lab/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+### BREAKING CHANGES
+
+* **edition-node:** use handlebars over mustache
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package @pattern-lab/edition-node

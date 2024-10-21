@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **config:** Add npm registry to lerna config ([1473cd5](https://github.com/pattern-lab/patternlab-node/commit/1473cd554c24b4c1baa4ee5ac59958f3499b9902))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([374c103](https://github.com/pattern-lab/patternlab-node/commit/374c103a59504ba239b16680f86a89b4d95e304f))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([48de8c2](https://github.com/pattern-lab/patternlab-node/commit/48de8c2e134a61c0b4440375254bc9590a3e2563))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([363f22c](https://github.com/pattern-lab/patternlab-node/commit/363f22c643239ef4ca48d6f5942111604fda5ead))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([487cc78](https://github.com/pattern-lab/patternlab-node/commit/487cc783388043ec16ab1e54a3bfd8490038d058))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([571017f](https://github.com/pattern-lab/patternlab-node/commit/571017ffafa2cf6e8fa01b7ea7effc88922b05d1))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([b4eb12e](https://github.com/pattern-lab/patternlab-node/commit/b4eb12e68ceb402964a7e303610e5b0c008876ba))
+* **lint:** run code through prettier ([ca52fde](https://github.com/pattern-lab/patternlab-node/commit/ca52fded2a3cebe294aa0bfa2ea09d8694abd85e)), closes [#825](https://github.com/pattern-lab/patternlab-node/issues/825)
+* **package:** remove files obsoleted by monorepo ([9abb8ac](https://github.com/pattern-lab/patternlab-node/commit/9abb8ac472ca4921c81e2d8444435b4ffcc37d76))
+* **packages:** Allow scoped publishing ([58beeb6](https://github.com/pattern-lab/patternlab-node/commit/58beeb6ee8a111d0caa4e2da6af138d634dc5355))
+* **package:** update LICENSE ([337aa32](https://github.com/pattern-lab/patternlab-node/commit/337aa32a22eab42641c087b0909d6c3bf5525399))
+* **README:** update content for consistency ([4edf0d4](https://github.com/pattern-lab/patternlab-node/commit/4edf0d49b914276f66fddaaa7d1cfe815d47015e)), closes [#815](https://github.com/pattern-lab/patternlab-node/issues/815)
+
+
+### Features
+
+* **package:** add npmrc file ([55f5bc2](https://github.com/pattern-lab/patternlab-node/commit/55f5bc26d635805648caa2d35d1bf306fe4740d5))
+* **package:** pin all dependencies ([415698e](https://github.com/pattern-lab/patternlab-node/commit/415698eb9a70d477ffb7b2906e679ac8f2051c60))
+* **package:** remove package-lock.json files ([5ab3995](https://github.com/pattern-lab/patternlab-node/commit/5ab399599a1dbea8239fbd09a34d5f39ad762e21))
+* **packages:** Update all package.json repo and bug links ([5eb2c11](https://github.com/pattern-lab/patternlab-node/commit/5eb2c1148d428170236907cbbc42ba05d046e408))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/pattern-lab/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package @pattern-lab/engine-liquid

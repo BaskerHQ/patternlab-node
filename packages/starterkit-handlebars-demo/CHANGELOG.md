@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **annotations:** displaying annotation tooltips correctly ([#1406](https://github.com/pattern-lab/patternlab-node/issues/1406)) ([3f33ce5](https://github.com/pattern-lab/patternlab-node/commit/3f33ce5c51f2f7a6afd86d3500b7659afd0198e6)), closes [#2](https://github.com/pattern-lab/patternlab-node/issues/2) [#1](https://github.com/pattern-lab/patternlab-node/issues/1)
+* **annotations:** hiding those correctly ([#1415](https://github.com/pattern-lab/patternlab-node/issues/1415)) ([ef0a60f](https://github.com/pattern-lab/patternlab-node/commit/ef0a60fcc8656acc6d83bb0723c02a658f7ff1f3))
+* **demopage:** switched to HTTPS URLs for image placeholders ([#1289](https://github.com/pattern-lab/patternlab-node/issues/1289)) ([e09bf6a](https://github.com/pattern-lab/patternlab-node/commit/e09bf6aae9bad99365b5a01381e0df6de9ddeafe))
+* **docs:** corrected a URL ([26ede14](https://github.com/pattern-lab/patternlab-node/commit/26ede14a6eafe8649cbc6b0076d84f1d323c3e20))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([cb0fcdb](https://github.com/pattern-lab/patternlab-node/commit/cb0fcdb5ad8504f9d78d4d5e040afa408aa2c356))
+* **handlebars-demo:** move and modify the icon files ([#1377](https://github.com/pattern-lab/patternlab-node/issues/1377)) ([7c66f8a](https://github.com/pattern-lab/patternlab-node/commit/7c66f8ad4cd15e0a814f9808d0fbca727903aeb5))
+* **starterkit:** add css output and build command ([ccb2d35](https://github.com/pattern-lab/patternlab-node/commit/ccb2d3569b741220324a3fa738ab3d4d2eb97ffe))
+* **starterkit:** remove config file ([f90e38a](https://github.com/pattern-lab/patternlab-node/commit/f90e38aa873dcff0dd08fe4dabc3b71bf95080b6))
+* **starterkit:** use handlebars meta files ([d8f5e12](https://github.com/pattern-lab/patternlab-node/commit/d8f5e12471bd783bd3755626701ecc17669fc761))
+
+
+### Features
+
+* activate prettier for scss ([#1468](https://github.com/pattern-lab/patternlab-node/issues/1468)) ([fac6ad4](https://github.com/pattern-lab/patternlab-node/commit/fac6ad4be48c95eccfe890a280cad441ee84f677))
+* **documentation:** added (sub)groups documentation again [#1262](https://github.com/pattern-lab/patternlab-node/issues/1262) ([#1334](https://github.com/pattern-lab/patternlab-node/issues/1334)) ([9fac269](https://github.com/pattern-lab/patternlab-node/commit/9fac2699d2f6c64c4544e8e4d8e18c1a1ce7e49f))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package @pattern-lab/starterkit-handlebars-demo

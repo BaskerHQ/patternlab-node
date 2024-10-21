@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **annotations:** displaying annotation tooltips correctly ([#1406](https://github.com/pattern-lab/patternlab-node/issues/1406)) ([3f33ce5](https://github.com/pattern-lab/patternlab-node/commit/3f33ce5c51f2f7a6afd86d3500b7659afd0198e6)), closes [#2](https://github.com/pattern-lab/patternlab-node/issues/2) [#1](https://github.com/pattern-lab/patternlab-node/issues/1)
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/patternlab-node/issues/1192) ([b4eb12e](https://github.com/pattern-lab/patternlab-node/commit/b4eb12e68ceb402964a7e303610e5b0c008876ba))
+* manually bump package.json versions of packages published in September but with mismatched package.json versions ([98dfadf](https://github.com/pattern-lab/patternlab-node/commit/98dfadf083eacc6741a8a8d4a79ef0cf869360d2))
+* Rename Handlebars and Nunjucks extension setting to "extend" ([74e5af2](https://github.com/pattern-lab/patternlab-node/commit/74e5af28c4e714fdfc1db535b94c52f3dc14a3a4))
+* update the default pattern that displays in the Handlebars demo ([ff1d85f](https://github.com/pattern-lab/patternlab-node/commit/ff1d85f2852fc4f210841e8e0aaf14b55165ce58))
+
+
+### Features
+
+* **config:** add new default pattern export options ([a7487a0](https://github.com/pattern-lab/patternlab-node/commit/a7487a0681cb11e6f3c5c8eaefd62e5648ad5ea3))
+* **engine-handlebars:** Demonstration of custom Handlebars helper ([f330b5b](https://github.com/pattern-lab/patternlab-node/commit/f330b5bca72f2f34bfafe5c2c64e6b0b8823eb1c))
+* introduce netlify preview ([6c5d332](https://github.com/pattern-lab/patternlab-node/commit/6c5d332479fb6836bd8bd5530a074d13440f8ae4))
+* major improvements to local UIKit workflow ([4dc9173](https://github.com/pattern-lab/patternlab-node/commit/4dc9173a5a44b422e9677824de3728048b7c4f05))
+* **package:** add handlebars development edition ([454095d](https://github.com/pattern-lab/patternlab-node/commit/454095d0f8d9ec08a674eade8594485c78003288))
+* **plugin-tab, core:** initial plugin hook exploration ([2f3d39a](https://github.com/pattern-lab/patternlab-node/commit/2f3d39ac6b125ad4c6b872e27ee224ce2ea33a12))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/pattern-lab/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package @pattern-lab/development-edition-engine-handlebars

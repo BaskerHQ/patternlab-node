@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* actually exit build when Twig render fails ([5d28a24](https://github.com/pattern-lab/patternlab-node/commit/5d28a24a53011396289c1e29e0a715cd82470185))
+* **engine_twig_php:** Allow additional flexibility with twig namespaces. ([07bfaa3](https://github.com/pattern-lab/patternlab-node/commit/07bfaa35a00ff62fd2016cc9f34e09cf5af36559))
+* **engine_twig_php:** Pseudo patterns Twig PHP ([226aa8b](https://github.com/pattern-lab/patternlab-node/commit/226aa8bbaaf5e418530ccf54a28f6c5657ee6dea)), closes [#1045](https://github.com/pattern-lab/patternlab-node/issues/1045)
+* **engine_twig_php:** Twig incremental rebuilds ([5d33f24](https://github.com/pattern-lab/patternlab-node/commit/5d33f24f156ebe50900701513a855de7de608dcf)), closes [#1015](https://github.com/pattern-lab/patternlab-node/issues/1015)
+* **engine_twig_php:** Twig incremental rebuilds ([1ade945](https://github.com/pattern-lab/patternlab-node/commit/1ade9451840b2645706a0b01129e2b697dc22d4b)), closes [#1015](https://github.com/pattern-lab/patternlab-node/issues/1015)
+* **engine-twig-php:** twig include function syntax not matched by findPartials ([#1472](https://github.com/pattern-lab/patternlab-node/issues/1472)) ([3677539](https://github.com/pattern-lab/patternlab-node/commit/3677539409ac41dfee71d90cc429be5c92890838)), closes [#1471](https://github.com/pattern-lab/patternlab-node/issues/1471)
+* **package:** remove package-lock.json ([33d25e1](https://github.com/pattern-lab/patternlab-node/commit/33d25e1a20cdbf31f06586a97a2a523b7eda317a)), closes [#897](https://github.com/pattern-lab/patternlab-node/issues/897)
+* **twig engine:** startup and running problems ([#1478](https://github.com/pattern-lab/patternlab-node/issues/1478)) ([e5a1904](https://github.com/pattern-lab/patternlab-node/commit/e5a19049f083315939406677b1c0480f4b420569))
+* Update packages/engine-twig-php/lib/engine_twig_php.js ([c67d50e](https://github.com/pattern-lab/patternlab-node/commit/c67d50ebb5d69816b7514e85f129f8ecde984ad3))
+* update twig-renderer ([46f53b7](https://github.com/pattern-lab/patternlab-node/commit/46f53b79f8bb0bb64a9c55fd32f29459cea6e28c))
+
+
+### Features
+
+* **engine-twig-php:** update @basalt/twig-renderer to v3.0.1 using Twig v3.7.1 ([#1499](https://github.com/pattern-lab/patternlab-node/issues/1499)) ([2e5c9e1](https://github.com/pattern-lab/patternlab-node/commit/2e5c9e1c6a3318ba1cd3765d448c181e4a3a9a27)), closes [#1496](https://github.com/pattern-lab/patternlab-node/issues/1496) [#1496](https://github.com/pattern-lab/patternlab-node/issues/1496)
+* pass additional configuration into twig-php engine ([dff5a78](https://github.com/pattern-lab/patternlab-node/commit/dff5a7830918fa46e2692d9f9daed4121f803461))
+* upgrade Twig to use new filter, map, reduce ([4218a5a](https://github.com/pattern-lab/patternlab-node/commit/4218a5a04b06027548afd9f417486297dd25fef8))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/pattern-lab/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 

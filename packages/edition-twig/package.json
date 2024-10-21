@@ -1,6 +1,6 @@
 {
   "name": "@baskerhq/edition-twig",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "description": "Pattern Lab node with Twig PHP Engine",
   "author": {
     "name": "Evan Lovely",

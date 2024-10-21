@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/core",
   "description": "Create atomic design systems with Pattern Lab. This is the core API and orchestrator of the ecosystem.",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "main": "./src/index.js",
   "dependencies": {
     "@pattern-lab/engine-handlebars": "^6.1.0",

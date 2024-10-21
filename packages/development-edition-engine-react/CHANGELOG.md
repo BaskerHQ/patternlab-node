@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/edition-node-gulp/issues/1192) ([420e829](https://github.com/pattern-lab/edition-node-gulp/commit/420e8293c033557ede073bc13e68955a450a3c8e))
+* **docs:** resolving broken links in new docs site [#1192](https://github.com/pattern-lab/edition-node-gulp/issues/1192) ([b4eb12e](https://github.com/pattern-lab/edition-node-gulp/commit/b4eb12e68ceb402964a7e303610e5b0c008876ba))
+* manually bump package.json versions of packages published in September but with mismatched package.json versions ([98dfadf](https://github.com/pattern-lab/edition-node-gulp/commit/98dfadf083eacc6741a8a8d4a79ef0cf869360d2))
+* **package:** fix fat-fingered dependency ([e439f4e](https://github.com/pattern-lab/edition-node-gulp/commit/e439f4e60d9e28ccb821efa85f69d030665e23a3))
+
+
+### Features
+
+* **package:** add npmrc file ([55f5bc2](https://github.com/pattern-lab/edition-node-gulp/commit/55f5bc26d635805648caa2d35d1bf306fe4740d5))
+* **package:** pin all dependencies ([415698e](https://github.com/pattern-lab/edition-node-gulp/commit/415698eb9a70d477ffb7b2906e679ac8f2051c60))
+* **package:** remove package-lock.json files ([5ab3995](https://github.com/pattern-lab/edition-node-gulp/commit/5ab399599a1dbea8239fbd09a34d5f39ad762e21))
+* **README:** clarify purpose of development edition ([d90df0e](https://github.com/pattern-lab/edition-node-gulp/commit/d90df0ef9de42a4c975450fca77496096c634ff2))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/pattern-lab/edition-node-gulp/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/edition-node-gulp/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 **Note:** Version bump only for package @pattern-lab/engine-react-testing-tree

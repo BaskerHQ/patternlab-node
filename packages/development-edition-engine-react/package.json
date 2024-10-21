@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/engine-react-testing-tree",
   "description": "The tree of components we use to test, develop and validate the React engine",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "private": true,
   "main": "gulpfile.js",
   "dependencies": {

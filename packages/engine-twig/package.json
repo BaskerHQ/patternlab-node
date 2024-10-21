@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/engine-twig",
   "description": "The Twig engine for Pattern Lab / Node",
-  "version": "6.1.0",
+  "version": "7.0.0",
   "main": "lib/engine_twig.js",
   "dependencies": {
     "fs-extra": "10.0.0",

@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 7.0.0 (2024-10-21)
+
+
+### Bug Fixes
+
+* add better pre-rendering support ([8ecd615](https://github.com/BaskerHQ/patternlab-node/commit/8ecd6159a89232f42e0a9dc3c688b6e21de8fc30))
+* **edition-twig:** correct uikit paths in config ([5f8d616](https://github.com/BaskerHQ/patternlab-node/commit/5f8d6167cdbeb201489edc05217b96b7a1339722))
+* **edition:** ignore dependencyGraph.json ([19b4268](https://github.com/BaskerHQ/patternlab-node/commit/19b4268087e3bbd9fccf2d43d8376a4fc2bd9e6c))
+* fix Twig Edition examples by adding missing Twig namespaces to config ([b4c20ef](https://github.com/BaskerHQ/patternlab-node/commit/b4c20ef88ee0d3010760584c6f05ff7f92b711a6))
+* revert previous uikit configurable path updates to unblock Twig renderer work getting merged in ([42bfe29](https://github.com/BaskerHQ/patternlab-node/commit/42bfe29aeaa68b956110f3b7fe88d6395cf98286))
+* temporarily revert using twig-based UI for certain bits of rendering PL to get the Twig renderer back up and running ([a408bbc](https://github.com/BaskerHQ/patternlab-node/commit/a408bbc2cdc9c1759aa7251f858b29a5571d0d4c))
+* **twig engine:** startup and running problems ([#1478](https://github.com/BaskerHQ/patternlab-node/issues/1478)) ([e5a1904](https://github.com/BaskerHQ/patternlab-node/commit/e5a19049f083315939406677b1c0480f4b420569))
+
+
+### Features
+
+* **config:** add new default pattern export options ([a7487a0](https://github.com/BaskerHQ/patternlab-node/commit/a7487a0681cb11e6f3c5c8eaefd62e5648ad5ea3))
+* **engine-twig-php:** update @basalt/twig-renderer to v3.0.1 using Twig v3.7.1 ([#1499](https://github.com/BaskerHQ/patternlab-node/issues/1499)) ([2e5c9e1](https://github.com/BaskerHQ/patternlab-node/commit/2e5c9e1c6a3318ba1cd3765d448c181e4a3a9a27)), closes [#1496](https://github.com/BaskerHQ/patternlab-node/issues/1496) [#1496](https://github.com/BaskerHQ/patternlab-node/issues/1496)
+* setup edition-twig in cli init ([480ed5d](https://github.com/BaskerHQ/patternlab-node/commit/480ed5d14042a31d566d8d1107f7ca820ea18293))
+* test adding cross-env to Twig Edition test ([3f8bb01](https://github.com/BaskerHQ/patternlab-node/commit/3f8bb01bc4e96a0aba61c213ea1619c02593defc))
+
+
+### Reverts
+
+* Revert "[skip travis] chore(release): publish v5.10.0" ([7496318](https://github.com/BaskerHQ/patternlab-node/commit/7496318e083f667b6da914e21595c52442d62703))
+
+
+
+
+
 # [6.1.0](https://github.com/pattern-lab/patternlab-node/compare/v6.0.3...v6.1.0) (2023-12-21)
 
 
