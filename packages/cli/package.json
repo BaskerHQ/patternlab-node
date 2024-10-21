@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/cli",
+  "name": "@baskerhq/cli",
   "description": "Command-line interface (CLI) for the @pattern-lab/core.",
   "version": "6.1.0",
   "bin": {

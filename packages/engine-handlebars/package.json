@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/engine-handlebars",
+  "name": "@baskerhq/engine-handlebars",
   "description": "The Handlebars engine for Pattern Lab / Node",
   "version": "6.1.0",
   "main": "lib/engine_handlebars.js",

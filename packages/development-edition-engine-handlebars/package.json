@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/development-edition-engine-handlebars",
+  "name": "@baskerhq/development-edition-engine-handlebars",
   "private": true,
   "version": "6.1.0",
   "description": "The tree of components we use to test, develop and validate the Handlebars engine",

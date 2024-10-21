@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/live-server",
+  "name": "@baskerhq/live-server",
   "version": "6.1.0",
   "description": "simple development http server with live reload capability",
   "keywords": [

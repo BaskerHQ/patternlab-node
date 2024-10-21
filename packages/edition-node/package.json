@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/edition-node",
+  "name": "@baskerhq/edition-node",
   "description": "A pure wrapper around patternlab-node core, the default pattern engine, and supporting frontend assets.",
   "version": "6.1.0",
   "main": "patternlab-config.json",

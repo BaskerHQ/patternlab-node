@@ -24,7 +24,7 @@
   ],
   "license": "MIT",
   "main": "lib/engine_nunjucks.js",
-  "name": "@pattern-lab/engine-nunjucks",
+  "name": "@baskerhq/engine-nunjucks",
   "scripts": {},
   "version": "6.1.0",
   "publishConfig": {

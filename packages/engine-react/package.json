@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/engine-react",
+  "name": "@baskerhq/engine-react",
   "description": "The React engine for Pattern Lab / Node",
   "version": "6.1.0",
   "private": true,

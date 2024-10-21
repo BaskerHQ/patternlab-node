@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/core",
+  "name": "@baskerhq/core",
   "description": "Create atomic design systems with Pattern Lab. This is the core API and orchestrator of the ecosystem.",
   "version": "6.1.0",
   "main": "./src/index.js",

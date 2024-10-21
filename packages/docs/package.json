@@ -1,5 +1,5 @@
 {
-  "name": "@pattern-lab/website",
+  "name": "@baskerhq/website",
   "version": "6.1.0",
   "description": "The website for patternlab.io",
   "main": "index.js",
