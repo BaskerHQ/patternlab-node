@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/edition-node",
   "description": "A pure wrapper around patternlab-node core, the default pattern engine, and supporting frontend assets.",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "main": "patternlab-config.json",
   "dependencies": {
     "@pattern-lab/cli": "^6.1.0",

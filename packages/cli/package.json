@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/cli",
   "description": "Command-line interface (CLI) for the @pattern-lab/core.",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "bin": {
     "patternlab": "bin/patternlab.js"
   },

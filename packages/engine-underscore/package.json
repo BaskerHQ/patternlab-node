@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/engine-underscore",
   "description": "The Underscore engine for Pattern Lab / Node",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "main": "lib/engine_underscore.js",
   "dependencies": {
     "underscore": "1.13.0"
