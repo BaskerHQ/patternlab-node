@@ -1,5 +1,5 @@
 {
-  "name": "@baskerhq/engine-twig",
+  "name": "@pattern-lab/engine-twig",
   "description": "The Twig engine for Pattern Lab / Node",
   "version": "7.0.1",
   "main": "lib/engine_twig.js",

@@ -1,5 +1,5 @@
 {
-  "name": "@baskerhq/edition-twig",
+  "name": "@pattern-lab/edition-twig",
   "version": "7.0.1",
   "description": "Pattern Lab node with Twig PHP Engine",
   "author": {

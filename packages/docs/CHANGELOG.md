@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [7.0.1](https://github.com/bradfrost/pl-website-eleventy/compare/v7.0.0...v7.0.1) (2024-10-21)
 
-**Note:** Version bump only for package @baskerhq/website
+**Note:** Version bump only for package @pattern-lab/website
 
 
 

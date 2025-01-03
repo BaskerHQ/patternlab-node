@@ -1,5 +1,5 @@
 {
-  "name": "@baskerhq/engine-twig-php",
+  "name": "@pattern-lab/engine-twig-php",
   "description": "The Twig PHP engine for Pattern Lab Node",
   "version": "7.0.1",
   "main": "lib/engine_twig_php.js",

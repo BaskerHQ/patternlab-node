@@ -1,5 +1,5 @@
 {
-  "name": "@baskerhq/engine-underscore",
+  "name": "@pattern-lab/engine-underscore",
   "description": "The Underscore engine for Pattern Lab / Node",
   "version": "7.0.1",
   "main": "lib/engine_underscore.js",
